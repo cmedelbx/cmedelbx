@@ -1,7 +1,7 @@
 <h1 align="center">Hola 👋, soy Claudio Medel López</h1>
 <h3 align="center">Ingeniero en Informática</h3>
 
-- 🔭 I’m currently working on [Tracking Unificado](https://github.com/Blue-Express/bx-front-integration-united-tracking)
+- 🔭 I’m currently working on [Definición de soluciones técnicas en Marketing & Ventas](https://github.com/orgs/Blue-Express/teams/marketing-y-ventas)
 
 - 👯 I’m looking to collaborate on **Marketing & ventas**
 
