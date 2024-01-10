@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Tracking Unificado](https://github.com/Blue-Express/bx-front-integration-united-tracking)
 
-- 👯 I’m looking to collaborate on **Postventa & Autoatención**
+- 👯 I’m looking to collaborate on **Marketing & ventas**
 
 - 📫 How to reach me **claudio.medel@blue.cl**
 
